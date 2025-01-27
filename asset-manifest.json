@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fuel-calculator/static/css/main.d51cbe76.css",
+    "main.js": "/fuel-calculator/static/js/main.80c802a8.js",
+    "index.html": "/fuel-calculator/index.html",
+    "main.d51cbe76.css.map": "/fuel-calculator/static/css/main.d51cbe76.css.map",
+    "main.80c802a8.js.map": "/fuel-calculator/static/js/main.80c802a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d51cbe76.css",
+    "static/js/main.80c802a8.js"
+  ]
+}
